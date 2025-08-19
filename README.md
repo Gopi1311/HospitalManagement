@@ -30,5 +30,8 @@ This system allows users to register as patients, book doctor appointments, view
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hospital-management.git
+   git clone https://github.com/Gopi1311/HospitalManagement.git
    cd hospital-management
+2. : Install dependencies:
+   ```bash
+  

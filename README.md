@@ -32,6 +32,12 @@ This system allows users to register as patients, book doctor appointments, view
    ```bash
    git clone https://github.com/Gopi1311/HospitalManagement.git
    cd hospital-management
-2. : Install dependencies:
+2. Install dependencies:
    ```bash
-  
+   npm install
+3. Run the development server:
+   ```bash
+   npm run dev
+4.Build for production:
+  ```bash
+   npm run build

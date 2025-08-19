@@ -6,7 +6,7 @@ This system allows users to register as patients, book doctor appointments, view
 ---
 
 ## 🚀 Live Demo
-👉 [Hospital Management System](https://hospitalmanagementservice.netlify.app/news)
+👉 [Hospital Management System](https://hospitalmanagementservice.netlify.app/)
 
 ---
 
